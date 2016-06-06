@@ -1,7 +1,7 @@
-Symfony Polyfill / APCu
+Symfony Polyfill / APC
 ========================
 
-This component provides `apcu_*` functions and the `APCUIterator` class to users of the legacy APC extension.
+This component provides `apc_*` functions class to users of the APCu extension.
 
 More information can be found in the
 [main Polyfill README](https://github.com/symfony/polyfill/blob/master/README.md).
