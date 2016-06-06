@@ -1,8 +1,8 @@
 {
-    "name": "symfony/polyfill-apcu",
+    "name": "sanis/polyfill-apc",
     "type": "library",
-    "description": "Symfony polyfill backporting apcu_* functions to lower PHP versions",
-    "keywords": ["polyfill", "shim", "compatibility", "portable", "apcu"],
+    "description": "Sanis polyfill backporting apc_* functions",
+    "keywords": ["polyfill", "shim", "compatibility", "portable", "apc"],
     "homepage": "https://symfony.com",
     "license": "MIT",
     "authors": [
@@ -13,6 +13,10 @@
         {
             "name": "Symfony Community",
             "homepage": "https://symfony.com/contributors"
+        },
+        {
+            "name": "Justinas Bolys",
+            "email": "justinas.bolys@gmail.com"
         }
     ],
     "require": {
